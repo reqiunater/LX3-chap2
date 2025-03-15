@@ -1,3 +1,6 @@
+# Revyan Aldy Wilaga
+# XII TKJ 3
+
 from flask import Flask, render_template, jsonify, request
 from pymongo import MongoClient
 from datetime import datetime
